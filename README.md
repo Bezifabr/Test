@@ -1,5 +1,5 @@
 # Introduction
-This is an interview **ERGO** excersice to check your basic knowledge in Java programming 
+This is an interview **ERGO ET&S** excersice to check your basic knowledge in Java programming 
 and how you solve problems which you can deal with in regular 
 work on our projects.
 
@@ -27,9 +27,12 @@ Make sure that you have:
 - Some IDE (like Intellij or Eclipse)
 - GIT
 ## Branches
-Please create your onw branch for the task.
+Please create your own branch for the task.
+
+### **The reference branch is branch: `exercise3`**
+Please commit your changes on your feature branch (pull request is not needed).
 ## Time
-You have 45 minutes to do your task.
+You have 30 minutes to do your task.
 
 ## _**Please feel free to ask question if you don't understand or something is unclear for you.**_
 
