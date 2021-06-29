@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 
 public class App {
 
-    private static integer MAX_PREMIUM = 10000000000;
+    private static int MAX_PREMIUM = 10000000000;
     private static LocalDate date = LocalDateTime.now();
 
     private main ()
