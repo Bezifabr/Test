@@ -16,18 +16,12 @@ Your goal is to refactor **updateContractTerms** method in way that:
 - is more understandable for other developers
 
 Feel free to develop as you want or know.
-## What do you need
-Make sure that you have:
-- Java -> at lease 8
-- like Intellij or Eclipse)
-- GIT
+
 ## Branches
 Please create your own branch for the task.
 
 ### **The reference branch is branch: `exercise1`**
 Please commit your changes on your feature branch (pull request is not needed).
-## Time
-You have **10** minutes to do your task.
 
 # _Please feel free to ask question if you don't understand or something is unclear for you._
 # **GOOD LUCK !!!**
