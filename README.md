@@ -7,13 +7,13 @@ This task is property of ERGO and can not be used, copied and shared outside.
 Please make App.java application run.
 Make code printing following values as a result:
 
-House Insurance Premium
-10000
-2021-06-29
-0081683
-policyHolder
-2021-06-29
-true
+House Insurance Premium<br>
+10000<br>
+2021-06-29<br>
+0081683<br>
+policyHolder<br>
+2021-06-29<br>
+true<br>
 
 **DO NOT CHANGE ANYTHING IN THE BODY OF MAIN METHOD**
 
