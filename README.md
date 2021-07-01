@@ -75,7 +75,7 @@ Please find below two tables containing respectively Contracts and Customers dat
   </tr>
 </table><br><br>
 
-Please write a SQL query returning all the contracts, provided their owners are 30 years old or older.
+Please write a SQL query returning all the contracts (Table: Contracts), provided their owners (Table: Customers) are 30 years old or older.
 
 ## Goal
 Your goal is to write down the solution in the Solution text file attached.
