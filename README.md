@@ -4,22 +4,81 @@ A simple SQL query as an extra challenge.
 This task is property of ERGO and can not be used, copied and shared outside.
 ## Description of task
 
-In Application class write a method that checks if in given array there is at least on pair of numbers which sum equals target.
-E.g. arr=[2, 10, 1] and target=11 result is true because the pair (10,1) sums to 11.
+Please find below two tables containing respectively Contracts and Customers data: <br><br>
 
-Please test it on following parameters:
-([], 1) - false
-([1, 2], 3) - true
-([1, 3], 3) - false
-([1, 2, 3, 4, 5, 6 , 7, 8, 9], 10) - true
-([1, 2, 3, 4, 5, 6 , 7, 8, 9], 18) - false
+<b>Table name: </b>Contracts<br>
+<table border="1">
+  <tr>
+    <td ><b>Id (BIGINT)</b></td>
+    <td><b>Category (VARCHAR 20)</b></td>
+    <td><b>ObjectInsured (VARCHAR 100)</b></td>
+    <td><b>CustomerId (BIGINT)</b></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Car</td>
+    <td>WA 12345</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Home</td>
+    <td>Street XYZ 123/45, Warsaw</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Car</td>
+    <td>KR 67890</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Life</td>
+    <td>Anna Nowak</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Life</td>
+    <td>John Doe</td>
+    <td>3</td>
+  </tr>
+</table><br>
 
+<b>Table name: </b>Customers<br>
+<table border="1">
+  <tr>
+    <td ><b>CustomerId (BIGINT)</b></td>
+    <td><b>Name (VARCHAR 100)</b></td>
+    <td><b>Age (INT)</b></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Jan Kowalski</td>
+    <td>32</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Anna Nowak</td>
+    <td>27</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>John Doe</td>
+    <td>54</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Jane Doe</td>
+    <td>21</td>
+  </tr>
+</table><br><br>
 
+Please write a SQL query returning all the contracts, provided their owners are 30 years old or older.
 
 ## Goal
-Your goal is to create fast working solution.
-
-Feel free to develop as you want or know.
+Your goal is to write down the solution in the Solution text file attached.
 
 ## Branches
 Please create your own branch for the task.
