@@ -24,7 +24,7 @@ Feel free to develop as you want or know.
 ## Branches
 Please create your own branch for the task.
 
-### **The reference branch is branch: `exercise5`**
+### **The reference branch is branch: `exercise4`**
 Please commit your changes on your feature branch (pull request is not needed).
 
 # _Please feel free to ask question if you don't understand or something is unclear for you._
