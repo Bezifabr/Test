@@ -6,19 +6,19 @@ work on our projects.
 This task is property of ERGO and can not be used, copied and shared outside. 
 
 ## Descripion of task
-Your goal is to write a single Spring Boot Application with four endpoints. 
+Create the REST API. 
 
 All information are included in **[ExerciseDiagram][ExerciseDiagram]**.
 
-There you can find what kind of methods you need to write and what you need for start.
+There you can find what methods you need to write and what you need to start exercise.
 Rest of implementation is yours. 
 
 Feel free to develop as you want or know.
 ## Goal
-Write as much logic as you can. 
+Write as much logic as you can.
 
-What is important: we dont expect to write whole workable application.
-Most important is to show that you understand what you do and how application will work.
+**What is important: we don't expect from you to write whole workable application. Focus on create basic skeleton of application. 
+Most important is to show that you understand what you do and how application will work.**
 
 ## What do you need
 Make sure that you have:
