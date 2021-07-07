@@ -10,7 +10,7 @@ Please read this method carefully.
 Other classes in package Contract are not important.
 ## Goal
 
-- first make sure the project is well configured (has all necessary imports etc.)
+- first make sure the project is well configured and built (has all necessary imports etc.)
 - then modify the **updateContractTerms** method so that:
   - the code is shorter, simpler, easier to understand
   - unnecessary parts are moved, deleted or modified
