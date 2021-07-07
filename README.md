@@ -3,7 +3,7 @@ This is the first task during the Interview process in **ERGO ET&S**, which will
 
 This task is the property of ERGO and can not be used, copied and shared outside.
 ## Description of task
-In [ContractUtils][ContractUtils] there is a method **updateContractTerms** which works but is far from perfection. 
+In [ContractUtils][ContractUtils] there is a method **updateContractTerms** which generally works but is far from perfection. 
 
 Please read this method carefully. 
 
