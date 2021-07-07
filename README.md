@@ -16,5 +16,5 @@ Don't worry if you won't finish all the tasks. We would like to see the way you
 
 Make sure that you have:
 <br>	- Java -> at least 8
-<br>	- IDE e.g. Intellij or Eclipse
+<br>	- IDE e.g. Intellij (preferably) or Eclipse
 <br>	- GIT
