@@ -14,7 +14,7 @@ Other classes in package Contract are not important.
 - then modify the **updateContractTerms** method so that:
   - the code is shorter, simpler, easier to understand
   - unnecessary parts are moved, deleted or modified
-  - the modified method does exactly the same things as previously, just in the more clear and effective way.
+  - the modified method does exactly the same things as previously, just in the clearer and more effective way.
 
 Feel free to develop as you want or know.
 
