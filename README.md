@@ -1,7 +1,7 @@
 # Introduction to Task 5
 A simple SQL query as an extra challenge.
 
-This task is property of ERGO and can not be used, copied and shared outside.
+This task is the property of ERGO and can not be used, copied and shared outside.
 ## Description of task
 
 Please find below two tables containing respectively Contracts and Customers data: <br><br>
