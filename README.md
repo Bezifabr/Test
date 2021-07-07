@@ -1,18 +1,17 @@
 # Introduction to Task 4
-Algorythmic task for more advanced developers.
+Algorithmic task for more advanced developers.
 
 This task is property of ERGO and can not be used, copied and shared outside.
 ## Description of task
 
-In Application class write a method that checks if in given array there is at least on pair of numbers which sum equals target.
-E.g. arr=[2, 10, 1] and target=11 result is true because the pair (10,1) sums to 11.
+In the Application class write a method that checks if in a given array there is at least one pair of numbers with a sum equal to the given target. E.g. arr=[2, 10, 1] and target=11 result is true because the pair (10,1) sums to 11.
 
-Please test it on following parameters:
-([], 1) - false
-([1, 2], 3) - true
-([1, 3], 3) - false
-([1, 2, 3, 4, 5, 6 , 7, 8, 9], 10) - true
-([1, 2, 3, 4, 5, 6 , 7, 8, 9], 18) - false
+Please test it on following parameters:<br>
+([], 1) - false<br>
+([1, 2], 3) - true<br>
+([1, 3], 3) - false<br>
+([1, 2, 3, 4, 5, 6 , 7, 8, 9], 10) - true<br>
+([1, 2, 3, 4, 5, 6 , 7, 8, 9], 18) - false<br>
 
 
 
