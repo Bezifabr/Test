@@ -17,8 +17,8 @@ public class ContractUtils {
                 validity.setChangeValid(contract, contractTerms.get(1L));
                 if (ostatniaZmiana.getCoverage() != null && ostatniaZmiana.getAdditionalCoverage() != null && ostatniaZmiana.getReason() != null) {
                     validity.setPastRefference(true); contractTerms.put(10L, validity.getPastRefference().toString());
-                    i++;
                 }
+                i++;
             } else {
                 if (ostatniaZmiana.getCoverage() != null && ostatniaZmiana.getAdditionalCoverage() != null && ostatniaZmiana.getReason() != null) {
                     validity.setChangeValid(contract, contractTerms.get(1L));
