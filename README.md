@@ -1,5 +1,5 @@
 # Introduction
-This is an interview **ERGO ET&S** excersice to check your basic knowledge in Java programming 
+This is an interview **ERGO ET&S** exercise to check your basic knowledge in Java programming 
 and how you solve problems which you can deal with in regular 
 work on our projects.
 
