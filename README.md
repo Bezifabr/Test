@@ -3,7 +3,7 @@ This is an interview **ERGO ET&S** excersice to check your basic knowledge in Ja
 and how you solve problems which you can deal with in regular 
 work on our projects.
 
-This task is property of ERGO and can not be used, copied and shared outside. 
+This task is property of the ERGO and can not be used, copied and shared outside. 
 
 ## Descripion of task
 Create the REST API. 
