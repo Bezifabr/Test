@@ -4,7 +4,7 @@ A simple SQL query as an extra challenge.
 This task is the property of ERGO and can not be used, copied and shared outside.
 ## Description of task
 
-Please find below two tables containing respectively Contracts and Customers data: <br><br>
+Please find below two tables containing Contracts and Customers data respectively: <br><br>
 
 <b>Table name: </b>Contracts<br>
 <table border="1">
