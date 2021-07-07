@@ -1,11 +1,11 @@
 # Introduction to Task 2
 The second task focuses on code correction to make application run. 
 
-This task is property of ERGO and can not be used, copied and shared outside.
+This task is the property of ERGO and can not be used, copied and shared outside.
 ## Description of task
 
 Please make App.java application run.
-Make code printing following values as a result:
+Make the code print following values as a result:
 
 House Insurance Premium<br>
 10000<br>

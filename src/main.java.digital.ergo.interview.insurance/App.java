@@ -10,7 +10,7 @@ public class App {
 
     private main ()
     {
-        Contract contract = new Contract(date, MAX_PREMIUM, getPeople());
+        Contract contract = new Contract(date, MAX_PREMIUM, generatePeople());
 
         System.out.println(contract.contractType);
         System.out.println(contract.getPremium());
@@ -25,6 +25,6 @@ public class App {
         System.out.println(contract.getCustomers().get(0).equals(new Person(LocalDate.of(2021,6,29), "policyHolder","0081683")));
     }
 
-    getPeople() {
+    private boolean generatePeople() {
     }
 }
