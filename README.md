@@ -4,7 +4,7 @@
 
 You have 60 minutes to complete the test comprising of 5 exercises. Exercises 1-3 are mandatory while 4-5 are extra challenges - feel free to resolve them if you have enough time.
 
-Don't worry if you won't finish all the task. We would like to see the way you are dealing with them and how are you thinking.
+Don't worry if you won't finish all the tasks. We would like to see the way you are dealing with them and how are you thinking.
 
 <br>
 1. Clone the repository to your local machine.<br>
