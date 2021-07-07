@@ -1,19 +1,20 @@
 # Introduction to Task 1
-This is a first task during Interview process in **ERGO ET&S**, which will check how you work with the Clean Code rule and refactoring. 
+This is the first task during the Interview process in **ERGO ET&S**, which will check how you work with the Clean Code rules and code refactoring. 
 
-This task is property of ERGO and can not be used, copied and shared outside.
+This task is the property of ERGO and can not be used, copied and shared outside.
 ## Description of task
-In [ContractUtils][ContractUtils] you have a method **updateContractTerms**. 
+In [ContractUtils][ContractUtils] there is a method **updateContractTerms** which works but is far from perfection. 
 
-Please read this method. 
+Please read this method carefully. 
 
 Other classes in package Contract are not important.
 ## Goal
-Your goal is to refactor **updateContractTerms** method in way that:
-- is still workable
-- is more clear
-- is less complicated  
-- is more understandable for other developers
+
+- first make sure the project is well configured (has all necessary imports etc.)
+- then modify the **updateContractTerms** method in way so that:
+  - the code is shorter, simpler, easier to understand
+  - unnecessary parts are moved, deleted or modified
+  - please make sure that the modified method does exactly the same things as previously, just in the more clear and effective way.
 
 Feel free to develop as you want or know.
 
