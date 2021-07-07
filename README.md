@@ -11,7 +11,7 @@ Other classes in package Contract are not important.
 ## Goal
 
 - first make sure the project is well configured (has all necessary imports etc.)
-- then modify the **updateContractTerms** method in way so that:
+- then modify the **updateContractTerms** method so that:
   - the code is shorter, simpler, easier to understand
   - unnecessary parts are moved, deleted or modified
   - please make sure that the modified method does exactly the same things as previously, just in the more clear and effective way.
